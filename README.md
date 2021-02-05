@@ -1,5 +1,9 @@
 # esp8266-multi-smarthome
-smarthome based esp8266 with multiplexer 4 channel output
+
+multi smarthome based esp8266 with multiplexer 4 channel output .if u have a question about this project ,email me at dafanur18@gmail.com
+
+
+https://www.bukalapak.com/p/elektronik/elektronik-lainnya/4ao7kcv-jual-esp8266-smarthome-dengan-multiplexer?from=product_owner&product_owner=normal_seller
 
 
 
